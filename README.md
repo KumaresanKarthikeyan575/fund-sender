@@ -98,7 +98,7 @@ cd fund-sender
 open page.tsx
 ```
 
-# 10. Folder Structure
+# Folder Structure
 
 ```md
 ## Folder Structure
@@ -116,7 +116,7 @@ TSender/
 
 ---
 
-# 11. Future Improvements
+# Future Improvements
 
 ```md
 ## Future Improvements
